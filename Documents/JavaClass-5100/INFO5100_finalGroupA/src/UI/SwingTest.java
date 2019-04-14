@@ -210,7 +210,7 @@ class AddPage extends JFrame{
 
 /*
  * 
- *AddPage
+ *ModifyPage
  *  
  */
 class ModifyPage extends JFrame{
